@@ -1,4 +1,4 @@
 # 15HoursGitHubIntensiveCourse
 test.
-second test.
-third test.
+the second test.
+the third test.
